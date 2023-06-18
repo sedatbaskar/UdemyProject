@@ -12,5 +12,7 @@ namespace HotelProject.WebUI.Controllers
         {
             return View();
         }
+
+        
     }
 }
