@@ -31,6 +31,29 @@ namespace HotelProject.WebUI.Controllers
             return View();
         }
 
+        [HttpGet]
+
+        public IActionResult AddStaf()
+        {
+
+            return View();
+        }
+
+        [HttpPost]
+        public async Task <IActionResult> AddStaff()
+        {
+            return View();
+
+        }
+
+
+
+
+
+
+
+
+
 
     }
 }
